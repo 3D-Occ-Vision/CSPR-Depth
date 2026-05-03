@@ -1,0 +1,23 @@
+# CSPR-Depth
+
+This repository contains the official implementation of:
+
+**CSPR-Depth: Context-Preserved Structural Reasoning for Sharp Monocular Depth Estimation in Low-Texture Scenes**
+
+## News
+
+The source code is currently being cleaned, organized, and documented.  
+We will release the complete codebase, pretrained models, and evaluation scripts to facilitate reproducibility.
+
+## Release Plan
+
+- Training and inference code
+- Pretrained model weights
+- Evaluation scripts
+- Dataset preparation instructions
+- Visualization examples
+
+## Citation
+
+If you find this work useful, please consider citing our paper.  
+The BibTeX entry will be updated after publication.
